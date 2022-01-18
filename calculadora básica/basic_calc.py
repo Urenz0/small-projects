@@ -129,5 +129,3 @@ def mais_operador():
     continuar()
 
 operador()
-
-
