@@ -1,4 +1,3 @@
-import imp
 import math
 import time
 
@@ -23,7 +22,7 @@ def continuar():
             print('O programa se encerrará em breve.')
             time.sleep(4)
             quit()
-            
+
         else:
             print('OPCÃO INVALIDA')
             continue
